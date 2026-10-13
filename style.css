@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(26, 26, 87); 
+    flex-direction: column;
+    color: aliceblue;   
+}
